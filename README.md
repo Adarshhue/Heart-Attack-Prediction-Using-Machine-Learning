@@ -94,9 +94,5 @@ The project includes a simple and interactive **Gradio web interface** where use
 
 ---
 
-## 🚀 How to Run Locally
 
-Install dependencies:
 
-```bash
-pip install -r requirements.txt
