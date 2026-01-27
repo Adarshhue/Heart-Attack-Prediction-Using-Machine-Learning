@@ -53,8 +53,7 @@ The following models were trained and compared:
 - Random Forest  
 - Gradient Boosting Classifier  
 - SVM  
-- KNN  
-- Naive Bayes  
+- KNN   
 
 ✅ **Gradient Boosting Classifier performed the best and is used as the final model.**
 
@@ -81,6 +80,8 @@ Evaluation metrics used:
 - Confusion Matrix  
 - Precision, Recall, F1-Score
 - Classification report  
+- AUC Score
+- ROC Curve
 
 ---
 
